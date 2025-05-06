@@ -2,6 +2,7 @@
 import requests
 from datetime import datetime
 
+
 def monitor_url(url):
     report = {
         'URL': url,
