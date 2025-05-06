@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run URL monitor script
+      - name: Create and run monitor script
         run: |
           echo "import requests
 from datetime import datetime
