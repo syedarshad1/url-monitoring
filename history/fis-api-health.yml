@@ -1,7 +1,7 @@
 url: https://api-gw1-prod1.fisglobal.com/gw/v1/health
 status: up
 code: 200
-responseTime: 341
-lastUpdated: 2025-06-14T23:24:16.604Z
+responseTime: 280
+lastUpdated: 2025-06-15T23:21:51.220Z
 startTime: 2025-05-06T19:50:41.043Z
 generator: Upptime <https://github.com/upptime/upptime>
