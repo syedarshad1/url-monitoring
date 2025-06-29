@@ -4,17 +4,17 @@
     "url": "https://api-gw1-prod1.fisglobal.com/gw/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-gw1-prod1.fisglobal.com.ico",
     "slug": "fis-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 299,
-    "timeWeek": 260,
-    "timeMonth": 416,
-    "timeYear": 398,
+    "time": 395,
+    "timeDay": 280,
+    "timeWeek": 261,
+    "timeMonth": 411,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
