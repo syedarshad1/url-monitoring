@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-gw1-prod1.fisglobal.com.ico",
     "slug": "fis-api-health",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 280,
-    "timeWeek": 261,
-    "timeMonth": 411,
-    "timeYear": 395,
-    "dailyMinutesDown": {}
+    "uptime": "98.56%",
+    "uptimeDay": "22.12%",
+    "uptimeWeek": "88.87%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "98.56%",
+    "time": 390,
+    "timeDay": 185,
+    "timeWeek": 253,
+    "timeMonth": 403,
+    "timeYear": 390,
+    "dailyMinutesDown": {
+      "2025-06-30": 127,
+      "2025-06-29": 995
+    }
   }
 ]
