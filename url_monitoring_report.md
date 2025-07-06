@@ -1,9 +1,9 @@
 ## URL Monitoring Report
 
 - **URL:** https://api-gw1-prod1.fisglobal.com/gw/v1/health
-- **Start Time:** 2025-07-06T20:46:27.686292
-- **End Time:** 2025-07-06T20:46:27.763787
-- **Total Time Taken:** 0.077495 seconds
+- **Start Time:** 2025-07-06T20:56:38.597057
+- **End Time:** 2025-07-06T20:56:38.806320
+- **Total Time Taken:** 0.209263 seconds
 - **HTTP Status Code:** 403
 - **Status:** Failure
 - **Failure Reason:** HTTP Status Code: 403
