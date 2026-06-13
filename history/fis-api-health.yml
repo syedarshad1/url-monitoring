@@ -1,7 +1,7 @@
 url: https://api-gw1-prod1.fisglobal.com/gw/v1/health
 status: down
 code: 403
-responseTime: 196
-lastUpdated: 2026-06-12T00:21:03.903Z
+responseTime: 268
+lastUpdated: 2026-06-13T00:22:09.082Z
 startTime: 2025-05-06T19:50:41.043Z
 generator: Upptime <https://github.com/upptime/upptime>
